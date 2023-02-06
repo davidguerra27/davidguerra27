@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Guerra</h1>
-<h3 align="center">These are the repositories of a naive young programmer soon to be spoiled and rotten by evil code!</h3>
+<h3 align="center">These are the repositories of a naive young programmer soon to be spoiled rotten by evil code!</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidxavierguerra) 
